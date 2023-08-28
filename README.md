@@ -7,7 +7,7 @@ This team project was developed in collaboration with my colleagues Hassan Ali a
 
 This project includes a R script *("project_final.RMD")* that handles all data and model processing. The *"listings_clean.csv"* file is required to run it. It is a cleaned data frame with all variables considered that has already been cleaned and pre-processed. The *"Neighborhood.shp"* file allows us to present the spatial variation of the variables to be displayed in the Amsterdam neighbourhood map. 
 
-### About "price_prediction_HPM_GWR" project
+### About "wind_turbines" project
 
 This team project was developed in collaboration with my colleagues Hassan Ali, Danya Mawed and Jelle Prins. The aim was to determine the suitable areas for wind turbines and evaluate the theoretical maximum energy production within these places. 
 
