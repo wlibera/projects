@@ -23,3 +23,5 @@ Explanation of files:
 - preferences.py: Runs the streamlit app (first page)
 - template.py: Used to display the recommended articles (code comes from lab week 1 and is slightly adjusted)
 
+
+
