@@ -21,5 +21,12 @@ The folder includes all the shape files (.shp) with all the steps and restrictio
 
 ### About "recommender_system" project
 
+This project was made together with [Maike L. V. Weiper](https://github.com/MWeiper), Carmen Timmerman, Xeniah Sillie and [Camilla Kuijper](https://github.com/CamillaKuijper)
+
+We created the personalized recommender system for the Dutch public media service NOS, which takes into account that news
+can be experienced as distressing or triggering. We wanted to create a system that would "protect" users from those sensitive topics if the user opts into it. It relies on the user’s explicit feedback and communication with the recommender system. To avoid the creation of the "information bubble" we tried to implement multiple factors, such as timeliness,
+collaborative filtering, similarity, distress, and interest, in addition to triggers, in order to balance the recommendation while still providing the user with interesting and personalised content.
+
+This project utilises scraped data from [NOS webside](https://nos.nl/) as well as the [Streamlit](https://streamlit.io/) application in order to create the recommender system. 
 
 
