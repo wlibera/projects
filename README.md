@@ -15,6 +15,11 @@ This project was entirely done in the QGIS program and the tools available. The 
 
 <img width="312" alt="image" src="https://github.com/wlibera/projects/assets/136256381/820fb42a-9375-486f-8379-dadea9a961bf">
 
-The folder includes all the shape files (.shp) with all the steps and restrictions needed to achieve the final map that contains the suitable areas *("Final_Suitable_AreasV5")*. 
+The folder includes all the shape files (.shp) with all the steps and restrictions needed to achieve the final map that contains the suitable areas *("Final_Suitable_AreasV5")*. Unfortunately, some of the files are too big, and therefore I attached the table, that contains the sources where the data can be found.
+
+<img width="454" alt="image" src="https://github.com/wlibera/projects/assets/136256381/e51fb194-2872-4cfb-a876-de1f6eec1857">
+
+### About "recommender_system" project
+
 
 
